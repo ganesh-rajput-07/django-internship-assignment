@@ -134,9 +134,3 @@ Authorization: Token your_token_here
 * The `.env` file should be added to `.gitignore` to keep secrets safe.
 * Push only the required source code to GitHub.
 * Deployment is not required for submission.
-
----
-
-## Submission
-
-Submit the GitHub repository URL only.
