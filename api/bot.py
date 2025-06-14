@@ -1,4 +1,3 @@
-# api/bot.py
 import os
 import django
 from telegram import Update

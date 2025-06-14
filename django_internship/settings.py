@@ -23,7 +23,7 @@ import os
 from decouple import config
 
 SECRET_KEY = config('SECRET_KEY')
-DEBUG = False  # For production
+DEBUG = False 
 
 ALLOWED_HOSTS = ['*']
 
